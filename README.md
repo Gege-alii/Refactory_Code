@@ -27,9 +27,9 @@ Features:
 . Interactive Cards: The blog posts are displayed in interactive cards with hover effects and animations.
  
 . Back to Top Button: A button that appears when the user scrolls down, allowing them to quickly return to the top of the page.
-
-Check out the live demo https://gege-alii.github.io/Refactory_Code/
  
 . Contact Form: A contact form is included in the footer for users to send messages.
  
 . Smooth Scroll: Smooth scrolling is implemented for navigation and the back-to-top button.
+
+Check out the live demo https://gege-alii.github.io/Refactory_Code/
